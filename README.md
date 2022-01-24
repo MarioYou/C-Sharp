@@ -1,3 +1,2 @@
 # C-Sharp
-Here I will be putting all my C# projects. 
-To Refresh my memory. 
+Here I will be putting all the C# projects I've worked on while doing a crash course
